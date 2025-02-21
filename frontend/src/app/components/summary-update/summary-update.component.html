@@ -1,0 +1,32 @@
+<div class="edit-container">
+  <!-- Sidebar with Sampling Time -->
+  <div class="sampling-list">
+    <div *ngFor="let item of data" 
+         [class.selected]="item.SamplingTime === selectedItem.SamplingTime" 
+         (click)="selectSamplingTime(item)">
+      {{ item.SamplingTime | date: 'dd-MM-yyyy hh:mm:ss a' }}
+    </div>
+  </div>
+
+  <!-- Edit Form -->
+  <div class="edit-form">
+    <label>Project Name:</label>
+    <input type="text" [(ngModel)]="selectedItem.ProjectName" />
+
+    <label>Construction Count:</label>
+    <input type="number" [(ngModel)]="selectedItem.ConstructionCount" />
+
+    <label>Is Construction Completed:</label>
+    <input type="checkbox" [(ngModel)]="selectedItem.IsConstructionCompleted" />
+
+    <label>Length of the road:</label>
+<div class="input-container">
+    <input type="number" [(ngModel)]="selectedItem.LengthOfRoad" />
+    <span>KM</span>
+</div>
+
+
+    <button (click)="saveItem()">Save</button>
+    <button (click)="cancle()">Close</button>
+  </div>
+</div>

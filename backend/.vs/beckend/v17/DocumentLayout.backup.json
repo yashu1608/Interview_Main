@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|c:\\users\\asus\\documents\\yash files\\interview_megaminds\\backend\\beckend\\controllers\\jsoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|solutionrelative:beckend\\controllers\\jsoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|c:\\users\\asus\\documents\\yash files\\interview_megaminds\\backend\\beckend\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|solutionrelative:beckend\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|c:\\users\\asus\\documents\\yash files\\interview_megaminds\\backend\\beckend\\models\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|solutionrelative:beckend\\models\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|c:\\users\\asus\\documents\\yash files\\interview_megaminds\\backend\\beckend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|solutionrelative:beckend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|c:\\users\\asus\\documents\\yash files\\interview_megaminds\\backend\\beckend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C07590-DC52-40D1-B87D-253D7D05B55C}|beckend\\beckend.csproj|solutionrelative:beckend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\Program.cs",
+              "RelativeDocumentMoniker": "beckend\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\Program.cs",
+              "RelativeToolTip": "beckend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:26:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\appsettings.json",
+              "RelativeDocumentMoniker": "beckend\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\appsettings.json",
+              "RelativeToolTip": "beckend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T11:26:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\data.json",
+              "RelativeDocumentMoniker": "beckend\\data.json",
+              "ToolTip": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\data.json",
+              "RelativeToolTip": "beckend\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T11:24:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "json.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\Models\\json.cs",
+              "RelativeDocumentMoniker": "beckend\\Models\\json.cs",
+              "ToolTip": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\Models\\json.cs",
+              "RelativeToolTip": "beckend\\Models\\json.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:15:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\Controllers\\JsonController.cs",
+              "RelativeDocumentMoniker": "beckend\\Controllers\\JsonController.cs",
+              "ToolTip": "C:\\Users\\asus\\Documents\\Yash Files\\interview_megaminds\\backend\\beckend\\Controllers\\JsonController.cs",
+              "RelativeToolTip": "beckend\\Controllers\\JsonController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:04:02.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

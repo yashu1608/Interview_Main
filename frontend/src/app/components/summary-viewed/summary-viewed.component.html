@@ -1,0 +1,33 @@
+<div class="table-wrapper">
+  <div class="table-container">
+    <table border="1">
+      <tr>
+        <th>Sampling Time</th>
+        <th>Project Name</th>
+        <th>Construction Count</th>
+        <th>Is Construction Completed</th>
+        <th>Length of the road</th>
+        <th>Actions</th>
+      </tr>
+      <tr *ngFor="let item of data">
+        <td>{{ item.SamplingTime | date: 'dd-MM-yyyy hh:mm:ss a' }}</td>
+        <td>{{ getPropertyValue(item, 'Project Name') }}</td>
+        <td>{{ getPropertyValue(item, 'Construction Count') }}</td>
+        <td>{{ getPropertyValue(item, 'Is Construction Completed') }}</td>
+        <td>{{ getPropertyValue(item, 'Length of the road') }}</td>
+        <td>
+          <button (click)="editItem(item)">Update</button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<!-- Show Edit Form Overlapping -->
+<app-summary-update 
+  *ngIf="editingItem" 
+  [data] = "data"
+  [selectedItem]="editingItem" 
+  (close)="editingItem = null" 
+  class="edit-form-overlay">
+</app-summary-update>
